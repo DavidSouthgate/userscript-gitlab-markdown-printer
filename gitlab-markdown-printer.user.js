@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Gitlab Markdown Printer
-// @namespace    http://davidsouthgate.co.uk/userscripts/x.user.js
-// @updateURL    http://davidsouthgate.co.uk/userscripts/x.user.js
-// @downloadURL  http://davidsouthgate.co.uk/userscripts/x.user.js
+// @namespace    https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
+// @updateURL    https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
+// @downloadURL  https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
 // @version      1.0.0
 // @description  Adds button to easily print GitLab markdown
 // @author       David Southgate
