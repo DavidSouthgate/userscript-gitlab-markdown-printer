@@ -6,6 +6,7 @@
 // @version      1.0.0
 // @description  Adds button to easily print GitLab markdown
 // @author       David Southgate
+// @licence      MIT; https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/LICENSE
 // @match        https://gitlab.com/*.md
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @grant        none
