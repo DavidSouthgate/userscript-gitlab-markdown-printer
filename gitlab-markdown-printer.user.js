@@ -3,11 +3,12 @@
 // @namespace    https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
 // @updateURL    https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
 // @downloadURL  https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/gitlab-markdown-printer.user.js
-// @version      1.0.0
+// @version      1.0.1
 // @description  Adds button to easily print GitLab markdown
 // @author       David Southgate
 // @licence      MIT; https://gitlab.com/southgate/userscripts/gitlab-markdown-printer/raw/master/LICENSE
-// @match        https://gitlab.com/*.md
+// @match        *://gitlab.*/*.md
+// @match        *://130.209.251.84/*.md
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @grant        none
 // ==/UserScript==
